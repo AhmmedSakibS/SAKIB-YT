@@ -1,11 +1,4 @@
 # SAKIB-YT
-This is paid tool
+This is paid tools
 
-git clone https://github.com/AhmmedSakibS/SAKIB-YT
-
-Cd SAKIB-YT
-
-ls
-
-python Sakib.py
 
